@@ -23,3 +23,5 @@ echo "<b>Legs:</b> " . $sungokong->legs . "</br>";
 echo "<b>Cold Blooded:</b> " . $sungokong->cold_blooded . "</br>";
 echo "". $sungokong->yell() . "</br>";
 echo "</br>";
+
+echo "<marquee>Misael Christopher Haryanto</marquee>";
